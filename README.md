@@ -1,5 +1,4 @@
 # Banking Portal UI
-
 A modern banking web application built with Angular that provides a secure and user-friendly interface for digital banking operations. It connects with the Banking Portal Spring Boot API for authentication, account management, transactions, and fund transfers.
 
 ## Features
